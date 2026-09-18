@@ -1,5 +1,5 @@
 # SMF
-Matlab code associated with the paper "Transformer une simulation en théorème grâce à une preuve assistée par ordinateur" published in the Gazette de la Société Mathématique de France.
+Matlab code associated with the paper "Transformer une simulation en théorème grâce à une preuve assistée par ordinateur" submitted to the Gazette de la Société Mathématique de France.
 
 Run script_SH.m in order to reproduce the computations needed for the proof of Theorem 3.
 
